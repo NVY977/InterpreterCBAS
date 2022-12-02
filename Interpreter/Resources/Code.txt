@@ -1,0 +1,38 @@
+﻿cin: a;
+cin: b;
+x = 2 + 2 * 2
+cout x;
+c = 1
+
+if a > b
+{
+	c = a + b
+	if c > 5
+	{
+		cin: c;
+	}
+}
+else
+{
+	c = a - b
+	c = c * a
+	cout "c = ", c;
+}
+
+for i = 1 to 10
+{
+	if i == 3 
+	{
+		for j = 1 to 3
+		{
+			if j == 2
+			{	
+				cout "c:", c;
+				cout "i:", i;
+				cout "j:", j;
+			}
+		}
+	}
+}
+
+cout "result = ", c;
